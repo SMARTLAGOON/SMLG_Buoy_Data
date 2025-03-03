@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d1ba6aab-c7b0-46dc-9b66-6f8e9b6ea764)
+[![DOI](https://zenodo.org/badge/542543775.svg)](https://doi.org/10.5281/zenodo.14959845)
 
 # SMARTLAGOON Buoy Data Repository
 
