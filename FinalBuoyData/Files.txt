@@ -1,0 +1,13 @@
+2022-2023_60min.xlsx	60 min data collected during period 1 when first deployed   
+2023-2024_60min.xlsx	60 min data collected during period 2 following repair and redeployment
+MarMenor_60min.xlsx     two above files merged in a common format
+MarMenor_60min.xlsx_QC	Based on the above file but quality controlled by manual inspection and delition of 
+						suspect values
+
+2022-2023_Daily.xlsx	DMarMenor_Daily.xlsxaily data collected during period 1 when first deployed   
+2023-2024_Daily.xlsx    Daily data collected during period 2 following repair and redeployment
+MarMenor_Daily.xlsx     two above files merged in a common format
+MarMenor_Daily.xlsx_QC	Based on the above file but quality controlled by manual inspection and delition of 
+						suspect values
+						
+NOTE QC files should be used to display data.						
