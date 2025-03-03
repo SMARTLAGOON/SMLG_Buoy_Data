@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/d1ba6aab-c7b0-46dc-9b66-6f8e9b6ea764)
+
 # SMARTLAGOON Buoy Data Repository
 
 This repository stores and provides access to the environmental monitoring data collected by the **SMARTLAGOON Buoy**, deployed in the **Mar Menor** coastal lagoon. The buoy is part of the **SMARTLAGOON** project, an initiative funded by the **European Union’s Horizon 2020 research and innovation programme (Grant Agreement No. 101017861)**. 
